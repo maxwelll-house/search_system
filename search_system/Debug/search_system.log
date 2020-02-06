@@ -1,0 +1,6 @@
+﻿  parse.cpp
+  search_server.cpp
+  search_system.cpp
+D:\C++ Projects\search_system\search_system\search_system.cpp(209,34): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+  Generating Code...
+  search_system.vcxproj -> D:\C++ Projects\search_system\Debug\search_system.exe
